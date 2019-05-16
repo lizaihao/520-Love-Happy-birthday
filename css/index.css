@@ -49,7 +49,7 @@ body{
 .content{
 	/*width: 1600px;*/
 	width: auto;
-	height: 750px;
+	height: 850px;
 	/*background-color: yellow;*/
 	padding-left: 8%;
 	padding-right: 8%;
@@ -57,7 +57,7 @@ body{
 	overflow: hidden;
 }
 .video{
-	width: 60%;
+	width: 50%;
 	height: 70%;
 	background-color: black;
 	float:left;
