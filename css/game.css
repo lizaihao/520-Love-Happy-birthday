@@ -1,10 +1,10 @@
 .alt{
 	width: 100%;
 	height: 1000px;
-	background-color:pink; 
+	background-color:pink;
 	background-image: url(../img/Game.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .one{
@@ -13,16 +13,16 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_1th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .two{
 	width: 100%;
 	height: 1000px;
-	background-color:black ;	
+	background-color:black ;
 	background-image: url(../img/Game_bg_2th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .three{
@@ -31,7 +31,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_3th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .four{
@@ -40,7 +40,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_4th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .five{
@@ -49,7 +49,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_5th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .six{
@@ -58,7 +58,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_6th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .seven{
@@ -67,7 +67,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_7th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .eight{
@@ -76,7 +76,7 @@
 	background-color:black;
 	background-image: url(../img/Game_bg_8th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .nine{
@@ -85,7 +85,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_9th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .ten{
@@ -94,7 +94,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_10th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .eleven{
@@ -103,7 +103,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_11th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .twelve{
@@ -112,7 +112,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_12th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .thirteen{
@@ -121,7 +121,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_13th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .fourteen{
@@ -130,7 +130,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_14th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .fifteen{
@@ -139,7 +139,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_15th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .sixteen{
@@ -148,7 +148,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_16th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .seventeen{
@@ -157,7 +157,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_17th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .eightenn{
@@ -166,7 +166,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_18th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .nineteen{
@@ -175,7 +175,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_19th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .twenty{
@@ -184,7 +184,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_20th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .twenty1{
@@ -193,7 +193,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_21th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .twenty2{
@@ -202,7 +202,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_22th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .twenty3{
@@ -211,7 +211,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_23th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .twenty4{
@@ -220,7 +220,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_24th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .twenty5{
@@ -229,7 +229,7 @@
 	background-color:black ;
 	background-image: url(../img/Game_bg_25th.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
 .last{
@@ -238,6 +238,6 @@
 	background-color:pink;
 	background-image: url(../img/Game_bg_last.png);
 	background-repeat: no-repeat;
-	background-position: 300px 100px;
+	background-position: 0px 0px;
 	background-attachment:fixed;
 }
