@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ce40dea-656c-4eca-b850-779890427003" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/game.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/game.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="9ce40dea-656c-4eca-b850-779890427003" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -28,13 +23,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="24" column="4" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="4" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game_bg_23th.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/Game_bg_23th.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="Game_bg_24th.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/img/Game_bg_24th.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="inst.css" pinned="false" current-in-tab="false">
@@ -156,12 +161,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557977852884</updated>
-      <workItem from="1557977854488" duration="10363000" />
+      <workItem from="1557977854488" duration="10366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10363000" />
+    <option name="totallyTimeSpent" value="10366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="26" width="1140" height="693" extended-state="0" />
@@ -209,9 +214,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/weibo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/Game_bg_24th.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/Game_bg_4th.png">
@@ -305,6 +307,12 @@
           <caret line="24" column="4" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/Game_bg_23th.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/Game_bg_24th.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
